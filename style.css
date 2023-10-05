@@ -46,7 +46,7 @@ scroll-behavior: smooth;
   background-size: cover;
   /* color: azure; */
   overflow: hidden;
-  background-image: url("/images/back.jpg"), linear-gradient(rgba(0, 0, 0, 0.644),rgba(0, 0, 0, 0.644));
+  background-image: url("./images/back.jpg"), linear-gradient(rgba(0, 0, 0, 0.644),rgba(0, 0, 0, 0.644));
   background-blend-mode: overlay;
   }
   .back2{
@@ -59,7 +59,7 @@ scroll-behavior: smooth;
   position: relative;
   background-size: cover;
   overflow: hidden;
-  background: url("/images/category4.png");
+  background: url("./images/category4.png");
   }
   @media only screen and (max-width: 900px){
   .textsec .contents{
